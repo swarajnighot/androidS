@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lab6</string>
+    <string name="todo">TODO</string>
+    <string name="chennai">Chennai</string>
+    <string name="delhi">Delhi</string>
+    <string name="mysore">Mysore</string>
+    <string name="banglore">Banglore</string>
+    <string name="name">Name...</string>
+    <string name="_18_to_21">18 to 21</string>
+    <string name="_22_to_30">22 to 30</string>
+    <string name="_31_to_50">31 to 50</string>
+    <string name="click_me">Bottom</string>
+    <string name="top">Top</string>
+    <string name="select_city">Select City</string>
+    <string name="select_age">Select Age</string>
+    <string name="bottom">Bottom</string>
+</resources>

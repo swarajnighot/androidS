@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Exam1</string>
+    <string name="two_wheeler">two_wheeler</string>
+    <string name="four_wheeler">Four_wheeler</string>
+    <string name="truck_bus">Truck_Bus</string>
+    <string name="rfid">RFID</string>
+    <string name="vip">VIP</string>
+    <string name="no_of_vehicles">No_Of_Vehicles</string>
+    <string name="total_amount">Total_Amount</string>
+    <string name="toll_fee_collector">Toll Fee Collector</string>
+    <string name="_0">0</string>
+    <string name="n">n</string>
+    <string name="non">non</string>
+</resources>

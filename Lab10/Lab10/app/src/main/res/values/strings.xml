@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab 10</string>
+    <string name="option1">Visit Our Website</string>
+    <string name="option2">Get Location</string>
+    <string name="option3">Contact Us.\nSend Email.</string>
+    <string name="option4">Call Us</string>
+</resources>
